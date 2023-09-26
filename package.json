@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kklee998/psychic-potato/issues"
   },
-  "homepage": "https://github.com/kklee998/psychic-potato#readme"
+  "homepage": "https://github.com/kklee998/psychic-potato#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
